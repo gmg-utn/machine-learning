@@ -8,6 +8,10 @@ D. J. Schwab.
     https://doi.org/10.1016/j.physrep.2019.03.001
     https://arxiv.org/abs/1803.08823
 
+Notebook utilizado:
+
+    https://physics.bu.edu/~pankajm/ML-Notebooks/NB1_CII-ML_is_difficult.ipynb
+
 # Machine learning for physicist
 
 Curso de Florian Marquardt de la Universidad de Erlangen
