@@ -14,3 +14,14 @@ en subdirectorios por encuentros.
 ## Lecturas recomendadas
 
 - [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+
+
+## Machine-learning covid tos:
+    
+    https://www.embs.org/ojemb/articles/covid-19-artificial-intelligence-diagnosis-using-only-cough-recordings/
+    
+    https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029
+    
+# nVidia Jetson Nano
+
+    https://developer.nvidia.com/embedded/jetson-nano-developer-kit
